@@ -1,9 +1,0 @@
-Fullname = ' Ari Vallejos'
-Age = 22
-Height_in_meters = 1.5
-Currently_working = False
-
-print(Fullname)
-print(Age)
-print(Height_in_meters)
-print(Currently_working)
